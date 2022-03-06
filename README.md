@@ -1,4 +1,4 @@
-[_The Book of Swarm_](/reference/The-Book-of-Swarm.pdf) 中文翻译项目，中文名《Swarm之书》。
+<!-- [_The Book of Swarm_](/reference/The-Book-of-Swarm.pdf) 中文翻译项目，中文名《Swarm之书》。 -->
 
 
 # 目录导航
