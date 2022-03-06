@@ -1,3 +1,4 @@
+# 序言
 <!-- ## intended audience -->
 ## 阅读对象
 
@@ -16,4 +17,6 @@
 
 <!-- The ﬁrst two parts – the Prelude and Design and Architecture – can be read as one continuous narrative. Those wishing to jump right into the technology can start with the Design and Architecture part, skipping the Prelude. A Swarm client developer can start from any particular component spec in the Speciﬁcations part and work their way back to Design and Architecture, via the in-text references whenever wider context is needed or one is interested in the justiﬁcations for the choices apparent in the specs. -->
 
-前两部分（序言和设计与架构）可以被视为一个连续的叙述，如果想要直接进入技术主题，可以跳过序言从设计与架构部分开始。对于 Swarm 客户端开发者，他们可以从规范部分中任一特定的构件规范开始，无论何时，若需要使用更广泛的背景、或者对规范中的选择理由感兴趣，可以通过文本引用的方式再回到设计和架构部分。
+前两部分（序言和设计与架构）可以被视为一个连续的叙述，如果想要直接进入技术主题，可以跳过序言从设计与架构部分开始。对于 Swarm 客户端开发者，他们可以从规范部分中任一特定的构件规范开始，无论何时，若需要考虑更多相关背景、或者对规范中的选择理由感兴趣，可以通过文本引用的方式再回到设计和架构部分。
+
+<br>_继续阅读：[致谢](/part-0/acknowledgements.md)_
